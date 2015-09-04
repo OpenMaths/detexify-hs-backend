@@ -1,0 +1,2 @@
+git remote add upstream git@github.com:kirel/detexify-hs-backend.git
+git remote add bitbucket git@bitbucket.org:openmaths/detexify-hs-backend.git
